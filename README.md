@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on: Azure cloud infrastructure project<br>👯 Looking to collaborate on: Cloud and IT projects<br>🤝 Looking for help with: Looking to expand my knowledge <br>🌱 Currently learning: AZ-104 Azure Administrator<br>💬 Ask me about: Australian tech space<br>⚡ Fun fact: IT cloud-focused
+🔭 Currently working on: Azure cloud infrastructure projects<br>👯 Looking to collaborate on: Cloud and IT projects<br>🤝 Looking for help with: Looking to expand my knowledge <br>🌱 Currently learning: AZ-104 Azure Administrator<br>💬 Ask me about: Australian tech space<br>⚡ Fun fact: IT cloud-focused
 
 
 # 💻 Tech Stack:
